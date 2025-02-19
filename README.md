@@ -1,4 +1,4 @@
-# Pandas-Data-Science-Tasks ((Webinar))
+# Pandas-Data-Science-Tasks (Webinar)
 
 ## Project Description
 
